@@ -11,4 +11,5 @@ An early-stage project featuring the following:
 How to run:
 
 Open Game.uproject in Unreal Engine 5.6
+Load Blank.umap level
 Run as either Standalone, Listen Server or Client
